@@ -1,4 +1,4 @@
-# HA6Bot's Automatic-Reddit-Text-To-Speech-Video-Generator-and-Uploader
+# Assets for the yt-bot
 
 <h2>Assets Download For Video Generator Client http://www.mediafire.com/file/hpu1j1k1avwp9dj/YouTube_Bot_Assets.zip/file (500MB)</h2>
 
