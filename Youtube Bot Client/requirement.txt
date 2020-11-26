@@ -1,0 +1,7 @@
+pyqt5
+qdarkstyle
+pillow
+praw
+opencv-python
+moviepy
+mysql-connector

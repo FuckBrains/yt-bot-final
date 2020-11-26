@@ -1,0 +1,1 @@
+ssh -i "yt-bot.pem" ec2-user@ec2-3-139-237-97.us-east-2.compute.amazonaws.com
